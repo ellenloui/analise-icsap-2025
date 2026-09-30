@@ -47,8 +47,6 @@ DATASUS → Tabwin → Google Planilhas → Tratamento → Indicadores → Visua
 
 `planilha/` - planilha utilizada para tratamento e análise
 
-`imagens/` - gráficos produzidos a partir dos dados
-
 `metodologia/` - descrição do processo de obtenção e tratamento dos dados
 
 ## Observação sobre os dados
